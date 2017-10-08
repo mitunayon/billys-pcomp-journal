@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+hey this is just a test to see if everythings working.
+
 You can use the [editor on GitHub](https://github.com/wkarnchanapee/billys-pcomp-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
