@@ -2,7 +2,7 @@
 ## Week 1
 
 
-#todo 
+# todo 
 - projects 1-4
 - get pics
 - turn em into **gifs**
