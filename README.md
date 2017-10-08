@@ -27,6 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://img.buzzfeed.com/buzzfeed-static/static/2014-07/18/10/enhanced/webdr09/anigif_enhanced-buzz-22799-1405693809-7.gif?downsize=715:*&output-format=auto&output-quality=auto)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
