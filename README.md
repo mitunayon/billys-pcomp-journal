@@ -4,7 +4,9 @@
 Project 7 - Keyboard
 - I had problems getting one button to work.
   - turns out the board was scratched, i changed the button to a different row
-  ![Image] (https://i.imgur.com/6AMN3Zs.jpg)
+  
+  ![Image](https://i.imgur.com/6AMN3Zs.jpg)
+  
   in this configuration the 1st two buttons didnt work.
 
 ## Week 1
