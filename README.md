@@ -4,6 +4,11 @@ hi, this blog still mostly exists in the form of screenshots, videos and notes o
 ## Week 4
 This week we began our puzzle box project. I'm working with Ece and Doruk. 
 
+production
+
+problems
+- communication between arduinos
+  - the information turned into ascii. we had to figure out what each letter corresponded to.
 
 Prototype Game 
 https://absolutekaoss.itch.io/puzzlebox-prototype-game?secret=OVinQhlO6sBgXtHpsEtwD7moAY
