@@ -1,6 +1,10 @@
 
 hi, this blog still mostly exists in the form of screenshots, videos and notes on my ipad. I will be presenting my journal here but for the moment it probably looks empty
 
+## Reading Week
+
+## Week 5
+
 ## Week 4
 This week we began our puzzle box project. I'm working with Ece and Doruk. 
 
@@ -11,7 +15,11 @@ problems
   - the information turned into ascii. we had to figure out what each letter corresponded to.
 
 Prototype Game 
+
 https://absolutekaoss.itch.io/puzzlebox-prototype-game?secret=OVinQhlO6sBgXtHpsEtwD7moAY
+
+![Image](https://i.imgur.com/TTWybtw.jpg)
+
 - we needed to see how the puzzle would play
 - to check whether it was fun or not
 - too easy, maybe it would be more fun as 4x4? or 5x5.
