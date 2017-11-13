@@ -6,11 +6,12 @@ hi, this blog still mostly exists in the form of screenshots, videos and notes o
 ## Week 5
 
 ## Week 4
-This week we began our puzzle box project. I'm working with Ece and Doruk. 
+This week we began our puzzle box project. I'm working with Ece and Doruk. We wanted to implement a game into our box. So we began by brainstorming some ideas and decided on Doruk's idea of a flip switching game. 
 
 Concept
 Our puzzle box would open once the player lights up all the LEDs
 
+###### Our initial design.
 ![Image](https://i.imgur.com/tyUHAEE.jpg)
 
 
