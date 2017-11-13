@@ -8,28 +8,32 @@ hi, this blog still mostly exists in the form of screenshots, videos and notes o
 ## Week 4
 This week we began our puzzle box project. I'm working with Ece and Doruk. 
 
+Concept
+Our puzzle box would open once the player lights up all the LEDs
+
+![Image](https://i.imgur.com/tyUHAEE.jpg)
+
+
 production
 
 problems
 - communication between arduinos
   - the information turned into ascii. we had to figure out what each letter corresponded to.
 
-Prototype Game 
-
-https://absolutekaoss.itch.io/puzzlebox-prototype-game?secret=OVinQhlO6sBgXtHpsEtwD7moAY
+[Prototype Game](https://absolutekaoss.itch.io/puzzlebox-prototype-game?secret=OVinQhlO6sBgXtHpsEtwD7moAY)
 
 ![Image](https://i.imgur.com/TTWybtw.jpg)
 
-- we needed to see how the puzzle would play
-- to check whether it was fun or not
+We needed to see how the puzzle would play and whether it was fun.
+
+After playing the prototype we found that the puzzle was really simple once you worked it out. Perhaps making the grid a 4x4 or 5x5 grid. However we wouldn't have enough pins on our Arduinos
+
 - too easy, maybe it would be more fun as 4x4? or 5x5.
   - we dont have the space on our arduino to do that
   - lets add a constraint instead
     - the puzzle will reset after x seconds
 
-Concept
-- a box that would open when the user completes the puzzle
-- 
+
 
 ## Week 3
 Project 7 - Keyboard
@@ -39,18 +43,9 @@ Project 7 - Keyboard
   ![Image](https://i.imgur.com/6AMN3Zs.jpg)
   
   in this configuration the 1st two buttons didnt work.
+## Week 2
 
 ## Week 1
-
-
-# todo 
-- projects 1-4
-- get pics
-- turn em into **gifs**
-- start _another blog_ for the other module.
-
-
-hey this is just a test to see if everythings working.
 
 
 
