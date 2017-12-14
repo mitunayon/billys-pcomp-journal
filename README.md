@@ -1,7 +1,10 @@
 
 hi, this blog still mostly exists in the form of screenshots, videos and notes on my ipad. I will be presenting my journal here but for the moment it probably looks empty
 
-## Reading Week
+## Singing Tree Project
+
+19:35 Got the State Machine into Python using elif
+
 
 ## Week 5
 
